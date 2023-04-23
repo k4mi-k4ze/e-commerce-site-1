@@ -45,6 +45,9 @@ nav {
 .article-autor-1 {
     margin-left: -23vw !important;
 }
+.article-1, .article-2 {
+    width: 720px !important;
+}
 }
 * {
     box-sizing: border-box;
@@ -512,16 +515,13 @@ h1 {
     justify-content: space-around;
 }
 .article-1, .article-2 {
-    width: 760px;
+    width: 800px;
     height: 330px;
     padding-top: 48px;
     padding-left: 48px;
     padding-right: 48px;
     background: #C1DCDC;   
     border-radius: 12px;
-}
-.article-2 {
-    margin-left: ;
 }
 .article-p {
     font-family: 'Poppins';
