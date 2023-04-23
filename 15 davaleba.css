@@ -507,6 +507,10 @@ h1 {
     color: #000000;
     margin-bottom: 50px;
 }
+.articles {
+    display: flex;
+    justify-content: center;
+}
 .article-1, .article-2 {
     width: 800px;
     height: 330px;
