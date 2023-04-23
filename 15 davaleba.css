@@ -45,9 +45,6 @@ nav {
 .article-autor-1 {
     margin-left: -23vw !important;
 }
-.article-1, .article-2 {
-    width: 720px !important;
-}
 }
 * {
     box-sizing: border-box;
