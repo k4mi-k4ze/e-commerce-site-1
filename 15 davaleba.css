@@ -509,7 +509,7 @@ h1 {
 }
 .articles {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 .article-1, .article-2 {
     width: 800px;
@@ -519,6 +519,9 @@ h1 {
     padding-right: 48px;
     background: #C1DCDC;   
     border-radius: 12px;
+}
+.article-2 {
+    margin-left: ;
 }
 .article-p {
     font-family: 'Poppins';
